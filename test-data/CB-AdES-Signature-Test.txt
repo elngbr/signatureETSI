@@ -1,0 +1,7 @@
+CB-AdES Signature Test
+
+Test Signer
+
+Student / Observer
+
+Test document for interoperability testing purposes.

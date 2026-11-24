@@ -1,0 +1,6 @@
+/generated/*
+!/generated/CB-AdES-Code-Adventure-Guide.pdf
+!/generated/CB-AdES-Code-Adventure-30-Slides.pdf
+!/generated/CB-AdES-Code-Adventure-30-Slides.pptx
+/.venv/
+__pycache__/
